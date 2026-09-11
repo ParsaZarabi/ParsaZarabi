@@ -39,4 +39,4 @@ production-style Dockerfile — solved real issues: layer caching,
 
 📧 zarabiparsa@gmail.com
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParsaZarabi&show_icons=true&theme=dark)
+https://github-readme-stats.vercel.app/api?username=ParsaZarabi&show_icons=true&theme=dark&cache_seconds=1800
