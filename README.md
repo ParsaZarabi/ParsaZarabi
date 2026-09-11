@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Parsa Zarabi 👋
 
-<!--
-**ParsaZarabi/ParsaZarabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring DevOps Engineer based in Tehran
 
-Here are some ideas to get you started:
+> IT Manager turned infrastructure engineer. Learning by building —
+> every repo here is a real skill I earned, not a tutorial copy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+| Category | Tools |
+|----------|-------|
+| **OS** | Linux (Ubuntu), macOS |
+| **Scripting** | Python (OOP, psutil), Bash (awk, sed, cron) |
+| **Containers** | Docker, Dockerfile, Volumes, Compose (learning) |
+| **Networking** | Network+, iptables, DNS, HTTP/TLS |
+| **Version Control** | Git, GitHub, PRs & Code Review |
+| **Currently** | 🐳 Docker Deep Dive · 🐍 Python Projects · 📖 LPIC-2 next |
+
+### 🔭 Featured Project — [system-monitor](https://github.com/ParsaZarabi/system-monitor)
+
+Bash **and** Python versions of a monitoring tool, containerized with a
+production-style Dockerfile — solved real issues: layer caching,
+`PYTHONUNBUFFERED` stdout buffering, UTC logging strategy.
+
+### 🎯 Roadmap to DevOps
