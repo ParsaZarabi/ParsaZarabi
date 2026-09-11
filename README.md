@@ -35,7 +35,6 @@ production-style Dockerfile — solved real issues: layer caching,
 - ⏳ AWS DevOps + CI/CD
 - ⏳ Prometheus + Grafana
 
-![CI](https://github.com/ParsaZarabi/system-monitor/actions/workflows/ci.yml/badge.svg)
 
 ### 📫 Let's connect
 
